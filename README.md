@@ -1,9 +1,9 @@
 # bwc_data
-Ohio BWC Data
+Ohio BWC Dataset
 
-The current files are from 2006 and were acquired using a public records request.
+The files in this repository are from a 2006 Ohio Bureau of Workers' Compensation public records request pursuant to Ohio's public records request laws.
 
-Details follow below:
+<b>Field details follow below:</b>
 
 ## 2006_bills_hpp (tab-delimited txt)
 
